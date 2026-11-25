@@ -8,3 +8,4 @@
 7. Zwiększ rozmiar czcionki napisu „Warsztat“ do 32. - diff 3 rozumiem 3
 8. Dodaj pod przyciskiem drugi napis „Uczę się Avalonii“. - diff 2 rozumiem 2
 9. Zmień kolor tła przycisku na zielony. - diff 3 rozumiem 3
+10. Dodaj pod napisami pole tekstowe (TextBox). - diff 1 rozumiem 1
