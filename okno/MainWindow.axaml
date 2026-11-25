@@ -20,5 +20,7 @@
                    HorizontalAlignment="Center"/>
         <TextBox Width="200"/>
         <Slider Width="200"/>
+        <CheckBox Content="Lubię C#"
+                  HorizontalAlignment="Center"/>
     </StackPanel>
 </Window>
