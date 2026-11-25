@@ -11,3 +11,4 @@
 10. Dodaj pod napisami pole tekstowe (TextBox). - diff 1 rozumiem 1
 11. Dodaj pod polem tekstowym suwak (Slider). - diff 1 rozumiem 1
 12. Dodaj pod suwakiem pole wyboru (CheckBox) z tekstem „Lubię C#“. - diff 2 rozumiem 2
+13. Ustaw minimalny rozmiar okna na 400 x 300. - diff 1 rozumiem 1
