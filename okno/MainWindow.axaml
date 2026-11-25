@@ -19,5 +19,6 @@
         <TextBlock Text="Uczę się Avalonii"
                    HorizontalAlignment="Center"/>
         <TextBox Width="200"/>
+        <Slider Width="200"/>
     </StackPanel>
 </Window>
