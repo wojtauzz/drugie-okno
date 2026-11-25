@@ -7,3 +7,4 @@
 6. Zmień kolor napisu „Warsztat“ na biały. - diff 3, rozumiem 3
 7. Zwiększ rozmiar czcionki napisu „Warsztat“ do 32. - diff 3 rozumiem 3
 8. Dodaj pod przyciskiem drugi napis „Uczę się Avalonii“. - diff 2 rozumiem 2
+9. Zmień kolor tła przycisku na zielony. - diff 3 rozumiem 3
