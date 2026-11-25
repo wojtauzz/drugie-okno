@@ -15,5 +15,7 @@
                    FontSize="32"/>
         <Button Content="Kliknij"
                 HorizontalAlignment="Center"/>
+        <TextBlock Text="Uczę się Avalonii"
+                   HorizontalAlignment="Center"/>
     </StackPanel>
 </Window>
