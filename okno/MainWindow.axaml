@@ -17,7 +17,8 @@
                    FontSize="32"/>
         <Button Content="Kliknij"
                 HorizontalAlignment="Center"
-                Background="Green"/>
+                Background="Green"
+                Click="OnButtonClick"/>
         <TextBlock Text="Uczę się Avalonii"
                    HorizontalAlignment="Center"/>
         <TextBox Width="200"/>

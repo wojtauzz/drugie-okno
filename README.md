@@ -13,3 +13,4 @@
 12. Dodaj pod suwakiem pole wyboru (CheckBox) z tekstem „Lubię C#“. - diff 2 rozumiem 2
 13. Ustaw minimalny rozmiar okna na 400 x 300. - diff 1 rozumiem 1
 14. Ustaw okno tak, żeby przy starcie pojawiało się na środku ekranu. - diff 1 rozumiem 1
+15. Spraw, żeby po kliknięciu przycisku jego tekst zmieniał się na „Kliknięto!“. Możesz zmienić pliki MainWindow.axaml i MainWindow.axaml.cs. - diff 12 rozumiem 12
