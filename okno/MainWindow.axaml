@@ -11,7 +11,8 @@
                     VerticalAlignment="Center">
         <TextBlock Text="Warsztat"
                    HorizontalAlignment="Center"
-                   Foreground="White"/>
+                   Foreground="White"
+                   FontSize="32"/>
         <Button Content="Kliknij"
                 HorizontalAlignment="Center"/>
     </StackPanel>

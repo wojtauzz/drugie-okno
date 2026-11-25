@@ -4,3 +4,5 @@
 3. Zmień tytuł okna na „Moje drugie okno“. - diff: 2 linijki, rozumiem 2 z 2.
 4. Ustaw rozmiar okna na 600 x 400. - diff: 3, rozumiem 3
 5. Zmień kolor tła okna na ciemnoszary. - diff 3, rozumiem 3
+6. Zmień kolor napisu „Warsztat“ na biały. - diff 3, rozumiem 3
+7. Zwiększ rozmiar czcionki napisu „Warsztat“ do 32. - diff 3 rozumiem 3
